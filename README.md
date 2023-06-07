@@ -30,7 +30,7 @@ To sync the video names and titles run the script in the following manner and pa
 Once the script has run, all video names and titles in the specified folder would have been synced.
 
 
-Make sure to replace `/path/to/folder` with the actual folder path of the videos you want to calculate the length for.
+Make sure to replace `/path/to/folder` with the actual folder path of the videos you want to syncronize the titles and names for.
 
 
 
